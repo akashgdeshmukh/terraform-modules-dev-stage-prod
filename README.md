@@ -1,1 +1,1 @@
-# gcp-drishya-infra
+# gcp-infra
